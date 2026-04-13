@@ -1,5 +1,5 @@
-# India-Tourism
-## Tourism Data Analysis & Forecasting
+
+## India Tourism Data Analysis & Forecasting
 
 Performed end-to-end exploratory data analysis on tourism data to understand state-wise trends, seasonality patterns, and visitor behavior. Identified peak travel periods, with November showing the highest tourist activity and revenue contribution.
 
